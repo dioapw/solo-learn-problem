@@ -1,2 +1,4 @@
-# solo-learn-problem
-sololearn problem set solution.
+# Sololearn Problem Sets
+- Spylife
+- Paint
+- Military Time
